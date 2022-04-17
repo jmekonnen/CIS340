@@ -5,7 +5,7 @@ export default function MyApp() {
   return (
     <View> 
       <Text>
-        Hellr, I am a student in CIS340! {"\n"}
+        Hello, I am a student in CIS340! {"\n"}
       </Text>
     </View>
     );
